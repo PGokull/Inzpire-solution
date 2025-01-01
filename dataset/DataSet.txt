@@ -1,0 +1,5 @@
+Glass Sanitation Dataset Link
+https://github.com/Siddharth-magesh/Glass-Sanitation-Classification-Dataset
+
+Rangoli Dataset Link
+https://github.com/Siddharth-magesh/Rangoli-Detection-Dataset

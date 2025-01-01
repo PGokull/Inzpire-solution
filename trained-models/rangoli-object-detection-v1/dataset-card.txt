@@ -1,0 +1,5 @@
+Model Name : Rangoli-Object Detection Version-1
+Training Hours :  
+Model : yolo11n.pt
+Epochs : 100
+Training Time : 10 Hours 
