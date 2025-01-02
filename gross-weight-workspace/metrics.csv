@@ -1,0 +1,6 @@
+Metric,Value
+Root Mean Squared Error (RMSE),1.838901754116359
+Mean Absolute Error (MAE),1.088556076449041
+R^2 Score,0.9566833786760512
+Explained Variance Score (EVS),0.9568898468904817
+Median Absolute Error (MedAE),0.5987886216367766
