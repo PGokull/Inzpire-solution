@@ -1,0 +1,13 @@
+{
+    "unique_id": "67765d6956bf9b28a8bd579f",
+    "crate_number": "65325",
+    "timestamp": "2025-01-02T06:33:18.569Z",
+    "contents": {
+      "products": ["NB", "GA", "GA"],
+      "weights": [1.544, 1.054, 1.058]
+    },
+    "crate_weight": 1.858,
+    "net_weight": 3.656,
+    "gross_weight": 6.2
+}
+  

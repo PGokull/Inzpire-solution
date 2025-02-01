@@ -1,0 +1,13 @@
+{
+    "unique_id": "67765d9d56bf9b28a8bd57b0",
+    "crate_number": "65329",
+    "timestamp": "2025-01-02T06:33:18.569Z",
+    "contents": {
+      "products": ["PT", "PT", "PT", "MH 200", "MH 200", "GA"],
+      "weights": [1.032, 1.032, 1.032, 1.114, 1.118, 1.056]
+    },
+    "crate_weight": 1.8,
+    "net_weight": 6.384,
+    "gross_weight": 8.15
+  }
+  

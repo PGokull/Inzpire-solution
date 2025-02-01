@@ -1,0 +1,13 @@
+{
+    "unique_id": "67765e4b56bf9b28a8bd57e9",
+    "crate_number": "64652",
+    "timestamp": "2025-01-02T06:33:18.569Z",
+    "contents": {
+      "products": ["KMR", "KMT"],
+      "weights": [1.026, 1.018]
+    },
+    "crate_weight": 1.85,
+    "net_weight": 2.044,
+    "gross_weight": 5
+  }
+  
