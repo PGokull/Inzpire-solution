@@ -28,8 +28,7 @@ def merge_crate_weight(input_file1 , input_file2 , output_file):
     combined_data.to_csv(output_file,index=False)
     print("Done")
 
-def remove_outliers(input_file):
-    
+def remove_outliers(input_file): 
     return
 
 input_file = r"D:\Inzpire-Solutions\grossweight\merged_data_original.csv" 
