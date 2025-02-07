@@ -91,11 +91,22 @@ class TrainingModel:
         except Exception as e:
             print("Error Occurred:", e)
 
-obj = DataTransformation()
-obj.merge_dataset()
-obj.transform_data()
-obj.add_crate_data()
-obj.preprocess_data()
+class GrossWeightPredictionPipeline:
+    def __init__(self):
+        self.data_transformer = DataTransformation()
+        self.model_trainer = TrainingModel()
 
-new = TrainingModel()
-new.training()
+    def run_pipeline(self):
+        print("Starting Data Transformation...")
+        self.data_transformer.merge_dataset()
+        self.data_transformer.transform_data()
+        self.data_transformer.add_crate_data()
+        self.data_transformer.preprocess_data()
+        
+        print("\nStarting Model Training...")
+        self.model_trainer.training()
+        print("\nPipeline Execution Completed Successfully!")
+
+if __name__ == "__main__":
+    pipeline = GrossWeightPredictionPipeline()
+    pipeline.run_pipeline()
